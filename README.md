@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 ## Мои навыки:
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/854fe885-788b-4c7e-80f2-e44d5b3c418f" />
-<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/b84a873d-15cb-4e91-b119-1babe6570020" />
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/854fe885-788b-4c7e-80f2-e44d5b3c418f" />
+<img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/b84a873d-15cb-4e91-b119-1babe6570020" />
